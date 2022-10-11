@@ -1,4 +1,6 @@
-👋 Hi, I’m @SavPhill. I own a small Website Design Agency and enjoy contributing to open source projects.
+👋 Hi, I’m Phill. I own a small Website Design Agency and enjoy contributing to open source projects.
+
+I'm also on Twitter: [@savphill](https://twitter.com/savphill).
 
 [![Savphill's Activity](https://activity-graph.herokuapp.com/graph?username=savphill&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
