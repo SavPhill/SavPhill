@@ -27,9 +27,9 @@ I'm also on Twitter: [@savphill](https://twitter.com/savphill).
 
 <div class="row">
   <div class="column">
-    <img src="https://assets.poap.xyz/gitpoap-2022-ethereumorg-contributor-2022-logo-1649270203770.png" a href="https://www.gitpoap.io/gp/74" target="_blank" alt="eth-contributor-poap" style="width:100%">
+    <img src="https://assets.poap.xyz/gitpoap-2022-ethereumorg-contributor-2022-logo-1649270203770.png" a href="https://www.gitpoap.io/gp/74" target="_blank" alt="eth-contributor-poap" style="width:25%">
   </div>
   <div class="column">
-    <img src="https://assets.poap.xyz/gitpoap-2022-ethereumorg-contributor-2022-logo-1649270203770.png" a href="https://www.gitpoap.io/gp/452" target="_blank" alt="eth-merge-poap" style="width:100%">
+    <img src="https://assets.poap.xyz/gitpoap-2022-ethereumorg-contributor-2022-logo-1649270203770.png" a href="https://www.gitpoap.io/gp/452" target="_blank" alt="eth-merge-poap" style="width:25%">
   </div>
 </div>
