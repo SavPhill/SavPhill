@@ -3,8 +3,6 @@
 I'm also on Twitter: [@savphill](https://twitter.com/savphill).
 WordPress.org: [phillsav](https://profiles.wordpress.org/phillsav/).
 
-[![Savphill's Activity](https://activity-graph.herokuapp.com/graph?username=savphill&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ## My [GitPOAPs](https://www.gitpoap.io/)
 
 Ethereum.org | Eth: The Merge | Coming Soon |
