@@ -1,7 +1,9 @@
 👋 Hi, I’m Phill.
 
-I'm also on Twitter: [@savphill](https://twitter.com/savphill).
+Open Source Security Contributor
+
+Twitter: [@savphill](https://twitter.com/savphill).
 WordPress.org: [phillsav](https://profiles.wordpress.org/phillsav/).
 
-My Site: [psavage.net](https://psavage.net/)).
+My Site: [psavage.net](https://psavage.net/).
 
